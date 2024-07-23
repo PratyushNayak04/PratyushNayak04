@@ -1,4 +1,4 @@
-![MasterHead](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
+![MasterHead](https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273)
 <h1 align="center">Hi 👋, I'm PRATYUSH NAYAK</h1>
 <h3 align="center">Enthusiastic and Passionate Programmer from India</h3>
 
