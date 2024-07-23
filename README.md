@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/35/01/cd/3501cdcd72bdd2fc7b11b836693046c3.gif)
+![MasterHead](https://wallpapercave.com/wp/wp4412356.gif)
 <h1 align="center">Hi 👋, I'm PRATYUSH NAYAK</h1>
 <h3 align="center">Enthusiastic and Passionate Programmer from India</h3>
 
