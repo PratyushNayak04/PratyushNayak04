@@ -1,4 +1,4 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/025/789/352/original/pixel-jeff-galaxy-far-far-away.gif?1586928273)
+![MasterHead](https://i.pinimg.com/originals/ff/ce/89/ffce8945da70b024c6045f90b88b0670.gif)
 <h1 align="center">Hi 👋, I'm PRATYUSH NAYAK</h1>
 <h3 align="center">Enthusiastic and Passionate Programmer from India</h3>
 
